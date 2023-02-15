@@ -18,11 +18,3 @@ Run Test
 go test -v
 ```
 
-## What we're looking for
-
-- The solution runs
-- The solution performs all cases correctly
-- The code is easy to read
-- The code is reasonably documented
-- The code is tested
-- The code is robust and handles invalid input and provides helpful error messages
